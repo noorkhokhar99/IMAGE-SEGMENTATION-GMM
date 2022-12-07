@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-` python python counter.py `
+` python image_segmentation_using_GMM.py`
 
 
 
